@@ -11,7 +11,7 @@ const questions = [
     },
     {
         question: "Quantas espécies de orangotangos existem?",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tanjung_Puting30477.jpg/960px-Tanjung_Puting30477.jpg",
+        image: "https://img.freepik.com/fotos-gratis/expressao-de-um-orangotango-com-uma-pedra-na-boca_488145-3284.jpg",
         answers: [
             { text: "1", correct: false },
             { text: "2", correct: false },
